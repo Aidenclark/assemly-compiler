@@ -2,7 +2,7 @@
 
 Compiler is working. Each version functions differently. Have fun exploring the madness that this is. 
 
-(S)     ->     Name Identifier Spot Identifier (R) (E)
+(S)     ->     Name Identifier Spot Identifier (R) (E)\
 (R>     ->     Place (A) (B) Home
 (E>     ->     Show Identifier
 (A>     ->    Name Identifier
